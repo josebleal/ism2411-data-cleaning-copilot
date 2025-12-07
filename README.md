@@ -51,6 +51,7 @@ What Gets Cleaned
 - New Calculations: Adds revenue column (price × qty)
 
 Author: Jose Guilherme Brol Leal 
+
 Created as part of ISM 2411 coursework at the University of South Florida, Muma College of Business.
 
 License
